@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dwightcaro
+- 👋 Hi, I’m @dwightcaroQA
 - 👀 I’m interested in QA, Automation, Python, Selenium
 - 🌱 I’m currently learning Automation, Python, Selenium
 - 💞️ I’m looking to collaborate on ...
