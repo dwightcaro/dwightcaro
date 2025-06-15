@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="/Python-logo-notext.svg.png" width="50" />
+  <img src="/dwightcaro/Python-logo-notext.svg.png" width="50" />
 </p>
 
 ## Herramientas de Testing
@@ -43,20 +43,20 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" title="Cypress" width="50"/>
   <img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" width="50"/>
-  <img src="/postman-icon.svg" title="Postman" widht="50" height="50"/>
-  <img src="/swagger-icon-2048x2048-563qbzey.png" title="Swagger" width="50"/>
-  <img src="/657-6574406_soapui-soap-ui-logo-png-transparent-png.png" title="SoapUI" width="50" height="50"/>
-  <img src="/Sql_data_base_with_logo.svg.png" title="SQL" width="50" height="50"/>
+  <img src="/dwightcaro/postman-icon.svg" title="Postman" widht="50" height="50"/>
+  <img src="/dwightcaro/swagger-icon-2048x2048-563qbzey.png" title="Swagger" width="50"/>
+  <img src="/dwightcaro/657-6574406_soapui-soap-ui-logo-png-transparent-png.png" title="SoapUI" width="50" height="50"/>
+  <img src="/dwightcaro/Sql_data_base_with_logo.svg.png" title="SQL" width="50" height="50"/>
 </p>
 
 ## Gestión y Colaboración
 
 <p align="center">
-  <img src="/jira-1.svg" title="Jira" width="50" height="50"/>
-  <img src="/confluence.svg" title="Confluence" width="50" height="50"/>
-  <img src="/ClickUp-Emblem.png" title="ClickUp" width="50" height="50"/>
-  <img src="/aa33e529-8aa6-4690-8b81-3426a55a0fa9_Xblend_logo (1).webp" title="XRay" width="50" height="50"/>
-  <img src="/Octicons-mark-github.svg" width="50" height="50"/>
+  <img src="/dwightcaro/jira-1.svg" title="Jira" width="50" height="50"/>
+  <img src="/dwightcaro/confluence.svg" title="Confluence" width="50" height="50"/>
+  <img src="/dwightcaro/ClickUp-Emblem.png" title="ClickUp" width="50" height="50"/>
+  <img src="/dwightcaro/aa33e529-8aa6-4690-8b81-3426a55a0fa9_Xblend_logo (1).webp" title="XRay" width="50" height="50"/>
+  <img src="/dwightcaro/Octicons-mark-github.svg" width="50" height="50"/>
 </p>
 
 ---
