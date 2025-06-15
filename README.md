@@ -78,8 +78,6 @@ Actualmente me desempeño como QA Analyst participando activamente en proyectos 
 
 📄 Generación de documentación de pruebas, evidencias y reportes detallados para equipos técnicos y stakeholders.
 
-📊 Participación en revisiones funcionales, planning de sprints y grooming para asegurar la calidad desde el inicio del ciclo.
-
 🧩 Trabajo colaborativo con desarrolladores, analistas y product managers en equipos ágiles (Scrum/Kanban).
 
 Mi enfoque no es solo encontrar bugs, sino prevenirlos, detectar cuellos de botella en los procesos y proponer mejoras que eleven la calidad del producto final.
