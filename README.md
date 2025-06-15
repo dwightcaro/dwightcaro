@@ -55,7 +55,7 @@
   <img src="./images/jira-1.svg" title="Jira" width="50" height="50"/>
   <img src="./images/confluence.svg" title="Confluence" width="50" height="50"/>
   <img src="./images/ClickUp-Emblem.png" title="ClickUp" width="50" height="50"/>
-  <img src="./images/xray-for-jira-8c7ael4m5zn9xoplv4xzs9.webp" title="XRay" width="50" height="50"/>
+  <img src="./images/8b76ef-xray-for-jira.svg" title="XRay" width="50" height="50"/>
   <img src="./images/Octicons-mark-github.svg" width="50" height="50"/>
 </p>
 
