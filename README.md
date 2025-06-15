@@ -44,7 +44,7 @@
   <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" title="Cypress" width="50"/>
   <img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" width="50"/>
   <img src="/dwightcaro/postman-icon.svg" title="Postman" widht="50" height="50"/>
-  <img src="/dwightcaro/swagger-icon-2048x2048-563qbzey.png" title="Swagger" width="50"/>
+  <img src="./images/swagger-icon-2048x2048-563qbzey.png" title="Swagger" width="50"/>
   <img src="/dwightcaro/657-6574406_soapui-soap-ui-logo-png-transparent-png.png" title="SoapUI" width="50" height="50"/>
   <img src="/dwightcaro/Sql_data_base_with_logo.svg.png" title="SQL" width="50" height="50"/>
 </p>
