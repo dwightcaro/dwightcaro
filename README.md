@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="/dwightcaro/Python-logo-notext.svg.png" width="50" />
+  <img src="./images/Python-logo-notext.svg.png" width="50" />
 </p>
 
 ## Herramientas de Testing
